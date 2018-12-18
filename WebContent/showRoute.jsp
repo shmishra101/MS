@@ -215,7 +215,7 @@
  	
     </script>
  <script
-   type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyA1c6yTYp_DTSspcUQaBxPsLuOVUYjKU0I&callback&callback=initMap">
+   type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=&callback&callback=initMap">
 </script>
     </body>
     </html>
